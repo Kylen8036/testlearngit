@@ -6,3 +6,4 @@ testgit v1.4
 testgit v1.5
 testgit v1.6
 testgit v1.7
+testgit v1.8
